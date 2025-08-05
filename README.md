@@ -7,8 +7,6 @@
 ### 🤖 **Đỗ Mạnh Dũng** | AI/ML Engineer & Researcher
 *Transforming ideas into intelligent solutions*
 
-<img src="https://komarev.com/ghpvc/?username=DMDung2k3&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
 </div>
 
 ---
